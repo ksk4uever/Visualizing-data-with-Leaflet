@@ -10,7 +10,7 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 ## Your Task
 
-### Step 1: Basic Visualization
+### Level 1: Basic Visualization
 
 ![2-BasicMap](Images/2-BasicMap.png)
 
@@ -38,7 +38,7 @@ Your first task is to visualize an earthquake data set.
 
 - - -
 
-### Step 2: More Data
+### Level 2: More Data (Optional)
 
 ![5-Advanced](Images/5-Advanced.png)
 
@@ -58,9 +58,9 @@ In this step we are going to..
 
 Your final product will be assessed on the following metrics:
 
-* Completion of all steps in chosen level
+* Completion of assigned tasks
 
-* Visual attraction
+* Visual appearance
 
 * Professionalism
 
@@ -68,4 +68,4 @@ Your final product will be assessed on the following metrics:
 
 ## Copyright
 
-Coding Boot Camp (C) 2016. All Rights Reserved.
+Data Boot Camp (C) 2018. All Rights Reserved.
